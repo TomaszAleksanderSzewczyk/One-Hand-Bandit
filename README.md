@@ -1,2 +1,4 @@
 # One-Hand-Bandit
-One Hand Bandit using JavaScript
+##Check app with link below  
+##https://tomaszaleksanderszewczyk.github.io/One-Hand-Bandit/
+
